@@ -81,7 +81,7 @@ The following charts summarize key findings from the SQL analysis, highlighting 
 ![Top 10 Airline Passenger Gains](Screenshots/Top_10_Airline_Passenger_Gains_(2024–2025).png)
 
 ### Top Departure Airports (2025)
-![Top Departure Airports](Screenshots/Top_Departure_Airports_(2025).png)
+![Top Departure Airports (2025)](Screenshots/departing_passengers_millions_by_airport_code.png)
 Add Results & Visualizations section with screenshots
 
 ## Repository contents
