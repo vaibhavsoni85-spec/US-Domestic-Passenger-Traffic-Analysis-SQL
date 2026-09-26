@@ -75,13 +75,13 @@ The following charts summarize key findings from the SQL analysis, highlighting 
 ## Polished Visuals
 
 ### Annual Traffic vs Capacity (2021–2025)
-![Annual Traffic vs Capacity](Screenshots/Annual_Traffic_vs_Capacity_(2021–2025).png)
+![Annual Traffic vs Capacity](Screenshots/Annual_Traffic_vs_Capacity_2021-2025.png)
 
 ### Top 10 Airline Passenger Gains (2024–2025)
-![Top 10 Airline Passenger Gains](Screenshots/Top_10_Airline_Passenger_Gains_(2024–2025).png)
+![Top 10 Airline Passenger Gains](Screenshots/Top_10_Airline_Passenger_Gains_2024-2025.png)
 
 ### Top Departure Airports (2025)
-![Top Departure Airports (2025)](Screenshots/Top_Departure_Airports (2025).png)
+![Top Departure Airports](Screenshots/Top_Departure_Airports_2025.png)
 
 Add Results & Visualizations section with screenshots
 
