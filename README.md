@@ -49,6 +49,41 @@ Run the view creation script before the view coverage check and analysis queries
 |[`08\_carrier\_capacity\_2025.sql`](SQL/08_carrier_capacity_2025.sql)|Compare 2025 carrier seats, passengers, and passenger-to-seat percentages.|
 |[`09\_top\_departure\_airports\_2025.sql`](SQL/09_top_departure_airports_2025.sql)|Rank origin airports by departing passengers in 2025.|
 
+## Results & Visualizations
+The following charts summarize key findings from the SQL analysis, highlighting traffic trends, airline performance, route capacity, and airport rankings
+
+### Data Quality & Coverage
+![Five Year Coverage](Screenshots/01_five_year_coverage.png)
+
+### Traffic Trends
+![Annual Traffic and Capacity](Screenshots/02_annual_traffic_and_capacity.png)
+![Monthly Traffic (2024–2025)](Screenshots/03_monthly_traffic_2024_2025.png)
+
+### Airline Rankings
+![Airline Passenger Gains](Screenshots/04_airline_passenger_gains.png)
+![Airline Passenger Losses](Screenshots/05_airline_passenger_losses.png)
+
+### Routes & Capacity
+![Top Routes (2025)](Screenshots/06_top_routes_2025.png)
+![Carrier Capacity (2025)](Screenshots/07_carrier_capacity_2025.png)
+
+### Airports
+![Top Departure Airports (2025)](Screenshots/08_top_departure_airports_2025.png)
+
+---
+
+## Polished Visuals
+
+### Annual Traffic vs Capacity (2021–2025)
+![Annual Traffic vs Capacity](Screenshots/Annual_Traffic_vs_Capacity_(2021–2025).png)
+
+### Top 10 Airline Passenger Gains (2024–2025)
+![Top 10 Airline Passenger Gains](Screenshots/Top_10_Airline_Passenger_Gains_(2024–2025).png)
+
+### Top Departure Airports (2025)
+![Top Departure Airports](Screenshots/Top_Departure_Airports_(2025).png)
+Add Results & Visualizations section with screenshots
+
 ## Repository contents
 
 * `Documentation/` — the PDF report.
