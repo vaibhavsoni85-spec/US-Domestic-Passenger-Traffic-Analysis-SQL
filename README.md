@@ -17,6 +17,7 @@ Recorded segment passengers rose from **610.99 million in 2021** to **856.42 mil
 
 The [report](Documentation/US_Domestic_Passenger_Traffic_Report.pdf) presents results in tables, explains each finding, and gives evidence-based recommendations. It shows the top five airline gains and losses; the corresponding SQL files return the top ten in each direction.
 
+Read the [Executive Summary (1 page)](Documentation/US_Domestic_Passenger_Traffic_Executive_Summary.pdf) for a quick overview of the key findings.
 ## Data and method
 
 * **Source:** BTS TranStats, T-100 Domestic Segment, U.S. carriers; annual extracts for 2021–2025. See [Data-Source.md](Data-Source.md) for attribution and reuse notes.
